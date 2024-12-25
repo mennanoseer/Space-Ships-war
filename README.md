@@ -36,7 +36,7 @@ Space Shooter Wars is a 2D space-themed multiplayer game developed using OpenGL 
 ## Setup
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/space-shooter-wars.git
+    git clone https://github.com/mennanoseer/Space-Ships-war.git
     cd space-shooter-wars
     ```
 
